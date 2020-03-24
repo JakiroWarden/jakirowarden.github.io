@@ -7,9 +7,9 @@ author:     Jakiro
 header-img: img/basicIMG/article_bg_04.jpg
 catalog: true
 tags:
-	- 游戏评测
-	- 解谜
-	- homework
+    - 游戏评测
+    - 解谜
+    - homework
 ---
 #### 基本信息
 
