@@ -20,7 +20,7 @@ plugins:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "努力努力再努力！"
-sidebar-avatar: /img/basicIMG/home_sidebar_myphoto.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/basicIMG/home_sidebar_avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
