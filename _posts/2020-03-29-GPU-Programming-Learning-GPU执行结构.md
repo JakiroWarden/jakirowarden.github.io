@@ -32,7 +32,7 @@ tags:
 - Register File
 - LD/ST (Load/Store Units)
 - SFU (Special Functions Units)
-- Warp Scheduler
+- Warp Scheduler （即work group）
 
 
 

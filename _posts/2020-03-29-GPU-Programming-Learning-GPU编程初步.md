@@ -53,6 +53,16 @@ gpu内存：global memory, local memory|registers, shared memroy
 
 
 
+###### sysnc()
+
+- 逻辑上是同步的，但物理上可能不是同步的。
+
+###### if()
+
+- 尽量避免warp分支。
+
+
+
 #### 相关参考
 
 ---
